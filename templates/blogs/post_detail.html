@@ -31,11 +31,14 @@
             {% endfor %}
 
             <!-- 소셜 공유 -->
-            <button type="button" class="btn btn-light float-right">
+            <button type="button" class="btn btn-light float-right ml-1">
                 {% post_to_facebook post.get_absolute "facebook" %}
             </button>
+            <button type="button" class="btn btn-light float-right ml-1">
+                {% post_to_twitter "New Text: {{post.title}}. Check it out!" post.get_absolute "twitter" %}
+            </button>
             <button type="button" class="btn btn-light float-right">
-                {% send_email post.title "New Song: {{post.title}}. Check it out!" object_or_url "Share via email" %}
+                {% send_email post.title "New Text: {{post.title}}. Check it out!" object_or_url "gmail" %}
             </button>
         </div>
     </div>
