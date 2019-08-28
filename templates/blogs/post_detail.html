@@ -1,6 +1,6 @@
 {% extends "blogs/base.html" %}
 
-{% load social_share %}
+{ % load social_share %}
 
 {% block content %}
 <div class="container">
@@ -16,21 +16,26 @@
         </div>
     </div>
 
+<!--    like_section-->
+    <div id="#like_section">
+        {% include 'blogs/like_section.html' %}
+    </div>
+
     <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
             <!-- 태그 달기 -->
-            {% for tag in post.tags.all %}
+            { % for tag in post.tags.all %}
             <span class="badge badge-dark">
           #{{ tag.name }}
         </span>
-            {% endfor %}
+            { % endfor %}
 
             <!-- 소셜 공유 -->
             <button type="button" class="btn btn-light float-right">
-                {% post_to_facebook post.get_absolute "facebook" %}
+                { % post_to_facebook post.get_absolute "facebook" %}
             </button>
             <button type="button" class="btn btn-light float-right">
-                {% send_email post.title "New Song: {{post.title}}. Check it out!" object_or_url "Share via email" %}
+                { % send_email post.title "New Song: {{post.title}}. Check it out!" object_or_url "Share via email" %}
             </button>
         </div>
     </div>
@@ -55,6 +60,7 @@
                     </div>
                     {% endfor %}
                 </div>
+
 
                 <!-- 댓글 등록하기 -->
                 <div class="row">
