@@ -2,13 +2,6 @@ from django.db import models
 from django.contrib.auth.models import AbstractUser, BaseUserManager
 
 
-GENDER_CHOICES = (
-    (0, 'Male'),
-    (1, 'Female'),
-    (2, 'Not to disclose')
-)
-
-
 class UserManager(BaseUserManager):
     def _create_user(self, email, username, password, gender=2, **extra_fields):
         """
@@ -40,8 +33,16 @@ class UserManager(BaseUserManager):
         return self._create_user(email, 'blogs/like_section.html',  password, **extra_fields)
 
 
+GENDER_CHOICES = (
+    (0, 'Male'),
+    (1, 'Female'),
+    (2, 'Not to disclose')
+)
+
+
 class User(AbstractUser):
     email = models.EmailField(verbose_name='email', max_length=255, unique=True)
+    profile = models.ImageField(upload_to='user_profile/%Y/%m/%d', blank=True, null=True)
 
     username = models.CharField(max_length=30)
     gender = models.SmallIntegerField(choices=GENDER_CHOICES)
