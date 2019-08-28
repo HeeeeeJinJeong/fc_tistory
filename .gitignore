@@ -1,4 +1,4 @@
-/config
+secrets.json
 *.pyc
 *~
 /venv
