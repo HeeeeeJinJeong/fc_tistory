@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db6259c0-8079-4ace-9d86-2cf7d5022762" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../board/.idea/board.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_community/user/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_community/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_shopping/.idea/fc_shopping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_shopping/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_shopping/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_shopping/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0002_auto_20170618_1148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0003_auto_20170618_1350.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0004_auto_20170620_1817.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0005_auto_20170628_1750.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0006_auto_20170628_1854.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0007_auto_20170628_2117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0008_auto_20170628_2209.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0009_profile_picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0010_auto_20170629_1437.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0011_auto_20170629_1607.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0012_auto_20170701_1146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/0013_auto_20170703_1105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/my_adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/templates/accounts/account_change.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/templates/accounts/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/templates/accounts/password_change.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/templates/accounts/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/templates/accounts/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/accounts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/reqs/common.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/reqs/dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/reqs/etc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/reqs/prod.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/settings/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/settings/dev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/settings/prod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/css/account_form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/css/mylist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/css/post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/css/post_upload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/images/default/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/images/icon/icon_180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/images/icon/icon_192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/images/sprites/abfe22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/images/sprites/fef349.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/scss/account_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/scss/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/scss/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/scss/media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/scss/mylist.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/scss/post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/scss/post_upload.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/static/scss/search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/templates/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/migrations/0002_auto_20170623_1339.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/migrations/0003_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/migrations/0004_auto_20170628_2209.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/migrations/0005_auto_20170629_1421.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/migrations/0006_auto_20170703_1105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/comment_more_ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/comment_new_ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/follow_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/include_account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/my_post_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/my_post_list_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/post_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/post_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/post_list_ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/post_new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templates/post/script_ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/templatetags/post_extras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/post/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/css/changelists.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/css/rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/css/widgets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/fonts/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/fonts/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/fonts/Roboto-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/fonts/Roboto-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/fonts/Roboto-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/calendar-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/gis/move_vertex_off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/gis/move_vertex_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-addlink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-alert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-changelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-deletelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-no.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-unknown-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-unknown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/icon-yes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/inline-delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/selector-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/sorting-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/tooltag-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/img/tooltag-arrowright.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/SelectBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/SelectFilter2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/actions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/cancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/change_form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/collapse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/inlines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/inlines.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/jquery.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/popup_response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/prepopulate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/prepopulate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/prepopulate_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/timeparse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/urlify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/css/account_form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/css/mylist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/css/post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/css/post_upload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/css/toolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/img/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/img/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/img/back_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/img/close_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/img/djdt_vertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/img/indicator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/js/jquery_existing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/js/jquery_post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/js/jquery_pre.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/js/toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/js/toolbar.profiling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/js/toolbar.sql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/js/toolbar.template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/debug_toolbar/js/toolbar.timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/django_extensions/css/jquery.autocomplete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/django_extensions/img/indicator.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/django_extensions/js/jquery.ajaxQueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/django_extensions/js/jquery.autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/django_extensions/js/jquery.bgiframe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/images/default/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/images/icon/icon_180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/images/icon/icon_192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/images/sprites/abfe22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/images/sprites/fef349.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/account_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/mylist.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/post_upload.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/search.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/wps-fastflix.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="53" column="19" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/users/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="119" selection-start-line="119" selection-end-line="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/users/models.py" />
+        <option value="$PROJECT_DIR$/config/settings.py" />
+        <option value="$PROJECT_DIR$/users/admin.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/fc_tistory.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="733" />
+    <option name="height" value="955" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fc_tistory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fc_tistory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fc_tistory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fc_tistory" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fc_tistory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fc_tistory" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db6259c0-8079-4ace-9d86-2cf7d5022762" name="Default Changelist" comment="" />
+      <created>1566967418461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566967418461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1016" height="955" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1839196" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32908458" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/contrib/auth/base_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="53" column="19" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
