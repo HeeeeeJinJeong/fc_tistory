@@ -242,13 +242,7 @@
       <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/post.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/post_upload.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/project/staticfiles/scss/search.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blogs/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blogs/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/blogs/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blogs/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blogs/posts_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blogs/posts_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/vcs.xml" beforeDir="false" />
@@ -262,20 +256,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="638">
+              <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blogs/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            <state relative-caret-position="210">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -310,8 +304,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/blogs/post_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            <state relative-caret-position="412">
+              <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -397,11 +391,11 @@
         <option value="$PROJECT_DIR$/templates/blogs/posts_list.html" />
         <option value="$PROJECT_DIR$/blogs/admin.py" />
         <option value="$PROJECT_DIR$/blogs/urls.py" />
-        <option value="$PROJECT_DIR$/blogs/models.py" />
         <option value="$PROJECT_DIR$/templates/blogs/base.html" />
         <option value="$PROJECT_DIR$/blogs/views.py" />
-        <option value="$PROJECT_DIR$/templates/blogs/post_detail.html" />
         <option value="$PROJECT_DIR$/config/settings.py" />
+        <option value="$PROJECT_DIR$/templates/blogs/post_detail.html" />
+        <option value="$PROJECT_DIR$/blogs/models.py" />
       </list>
     </option>
   </component>
@@ -695,16 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogs/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/blogs/posts_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -736,17 +720,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/blogs/post_detail.html">
+    <entry file="file://$PROJECT_DIR$/config/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        <state relative-caret-position="638">
+          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/settings.py">
+    <entry file="file://$PROJECT_DIR$/templates/blogs/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="412">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogs/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
