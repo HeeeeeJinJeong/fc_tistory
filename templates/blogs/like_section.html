@@ -1,14 +1,20 @@
-<!-- 좋아요 수 -->
-{{ total_likes }}
+<div class="row">
+    <div class="col"></div>
+    <div class="col-10 float-right">
+        <!-- 좋아요 수 -->
+        <span class="badge badge-pill badge-success">{{ total_likes }}</span>
 
-<!-- 로그인 했을 경우 좋아요 누를 수 있음 -->
-{% if user.is_authenticated %} 
-<form action="{% url 'post_like' %}" method="POST">
-  {% csrf_token %}
-  {% if is_liked %}
-    <button type="submit" class="btn btn-primary" id="like" name="post_id" value="{{ post.id }}">좋아요 취소</button>
-  {% else %}
-    <button type="submit" class="btn btn-primary"  id="like" name="post_id" value="{{ post.id }}">좋아요</button>
-  {% endif %}
-</form>
-{% endif %}
+        <!-- 로그인 했을 경우 좋아요 누를 수 있음 -->
+        {% if user.is_authenticated %}
+        <form action="{% url 'post_like' %}" method="POST">
+            {% csrf_token %}
+            {% if is_liked %}
+            <button type="submit" class="btn btn-outline-danger" id="like" name="post_id" value="{{ post.id }}">좋아요 취소</button>
+            {% else %}
+            <button type="submit" class="btn btn-outline-success" id="like" name="post_id" value="{{ post.id }}">좋아요</button>
+            {% endif %}
+        </form>
+        {% endif %}
+    </div>
+    <div class="col"></div>
+</div>
