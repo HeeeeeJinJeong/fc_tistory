@@ -2,6 +2,8 @@ from django.shortcuts import render
 
 # Create your views here.
 from .forms import RegisterForm
+from .models import User
+from django.views.generic import ListView
 
 
 def register(request):
@@ -15,3 +17,8 @@ def register(request):
     else:
         user_form = RegisterForm()
     return render(request, 'registration/register.html', {'user_form':user_form})
+
+
+class UserInformation(ListView):
+    model = User
+    template_name = 'user.html'

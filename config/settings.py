@@ -22,6 +22,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
+
 secret_file = os.path.join(BASE_DIR, 'secrets.json')
 
 with open(secret_file) as f:
@@ -154,5 +155,5 @@ MEDIA_URL = '/media/'
 AUTH_USER_MODEL = 'users.User'
 
 # 아래 로그인, 로그아웃 변수는 꼭 세팅해야함
-LOGIN_REDIRECT_URL = '/blogs/post'
-LOGOUT_REDIRECT_URL = '/blogs/post'
+LOGIN_REDIRECT_URL = '/post'
+LOGOUT_REDIRECT_URL = '/post'

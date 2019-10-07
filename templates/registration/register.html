@@ -4,14 +4,19 @@
 {% block page %}signup{% endblock %}
 
 {% block content %}
-<div style="padding-left:50px; padding-top:50px;">
-    <h1>Signup</h1>
-    <hr>
-    <form action="" method="POST">
-      {{ user_form.as_p }} <!--form.as_table form.as_ul-->
-      {% csrf_token %}
-      <input class="btn btn-primary" type="submit" value="submit">
-    </form>
-  
+<div class="row">
+    <div class="col"></div>
+    <div class="col-6">
+        <div style="padding-left:50px; padding-top:50px;">
+            <h1 class="text-center">Signup</h1>
+            <hr>
+            <form action="" method="POST">
+                {{ user_form.as_p }} <!--form.as_table form.as_ul-->
+                {% csrf_token %}
+                <input class="btn btn-primary" type="submit" value="submit">
+            </form>
+        </div>
+    </div>
+    <div class="col"></div>
 </div>
 {% endblock %}
